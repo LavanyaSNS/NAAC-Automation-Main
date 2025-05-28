@@ -1,0 +1,5 @@
+flask
+pymongo
+sentence-transformers
+faiss-cpu
+PyMuPDF
