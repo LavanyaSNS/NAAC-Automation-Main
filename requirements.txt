@@ -3,3 +3,13 @@ pymongo
 sentence-transformers
 faiss-cpu
 PyMuPDF
+
+boto3
+fastapi
+uvicorn
+pdfplumber
+sentence-transformers
+faiss-cpu
+python-multipart
+aiofiles
+python-dotenv
